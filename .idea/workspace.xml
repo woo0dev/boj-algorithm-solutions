@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ed6dc1e8-e5a3-43bc-911f-e136b7643516" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1Ysxbdug2nJ0EWifdukZSt4fu7h" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/projects/boj-algorithm-solutions" />
+  </component>
+  <component name="RunManager" selected="Application.Solution10817">
+    <configuration name="Solution1000" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="level1.Solution1000" />
+      <module name="boj-algorithm-solution" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="level1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution10817" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="level2.Solution10817" />
+      <module name="boj-algorithm-solution" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="level2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution1330" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="level2.Solution1330" />
+      <module name="boj-algorithm-solution" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="level2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution2753" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="level2.Solution2753" />
+      <module name="boj-algorithm-solution" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="level2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution5543" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="level2.Solution5543" />
+      <module name="boj-algorithm-solution" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="level2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Solution10817" />
+        <item itemvalue="Application.Solution5543" />
+        <item itemvalue="Application.Solution2753" />
+        <item itemvalue="Application.Solution1330" />
+        <item itemvalue="Application.Solution1000" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ed6dc1e8-e5a3-43bc-911f-e136b7643516" name="Default Changelist" comment="" />
+      <created>1583745175638</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583745175638</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="665" y="289" key="FileChooserDialogImpl" timestamp="1583827745072">
+      <screen x="63" y="0" width="1644" height="1067" />
+    </state>
+    <state x="665" y="289" key="FileChooserDialogImpl/63.0.1644.1067@63.0.1644.1067" timestamp="1583827745072" />
+    <state x="703" y="447" key="Github.CreateGistDialog" timestamp="1583827456164">
+      <screen x="63" y="0" width="1644" height="1067" />
+    </state>
+    <state x="703" y="447" key="Github.CreateGistDialog/63.0.1644.1067@63.0.1644.1067" timestamp="1583827456164" />
+    <state width="1601" height="291" key="GridCell.Tab.0.bottom" timestamp="1583827675354">
+      <screen x="63" y="0" width="1644" height="1067" />
+    </state>
+    <state width="1601" height="291" key="GridCell.Tab.0.bottom/63.0.1644.1067@63.0.1644.1067" timestamp="1583827675354" />
+    <state width="1601" height="291" key="GridCell.Tab.0.center" timestamp="1583827675354">
+      <screen x="63" y="0" width="1644" height="1067" />
+    </state>
+    <state width="1601" height="291" key="GridCell.Tab.0.center/63.0.1644.1067@63.0.1644.1067" timestamp="1583827675354" />
+    <state width="1601" height="291" key="GridCell.Tab.0.left" timestamp="1583827675354">
+      <screen x="63" y="0" width="1644" height="1067" />
+    </state>
+    <state width="1601" height="291" key="GridCell.Tab.0.left/63.0.1644.1067@63.0.1644.1067" timestamp="1583827675354" />
+    <state width="1601" height="291" key="GridCell.Tab.0.right" timestamp="1583827675354">
+      <screen x="63" y="0" width="1644" height="1067" />
+    </state>
+    <state width="1601" height="291" key="GridCell.Tab.0.right/63.0.1644.1067@63.0.1644.1067" timestamp="1583827675354" />
+    <state x="577" y="358" key="com.intellij.ide.util.TipDialog" timestamp="1583822576570">
+      <screen x="63" y="0" width="1644" height="1067" />
+    </state>
+    <state x="577" y="358" key="com.intellij.ide.util.TipDialog/63.0.1644.1067@63.0.1644.1067" timestamp="1583822576570" />
+  </component>
+</project>

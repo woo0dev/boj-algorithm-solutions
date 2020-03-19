@@ -2,17 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ed6dc1e8-e5a3-43bc-911f-e136b7643516" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/level3/Solution10871.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/level3/Solution10950.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/level3/Solution11021.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/level3/Solution11022.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/level3/Solution15552.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/level3/Solution2438.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/level3/Solution2439.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/level3/Solution2739.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/level3/Solution2741.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/level3/Solution2742.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/level3/Solution8393.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/level4/Solution10952.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/level4/Solution1110.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/level5/Solution10039.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/level5/Solution10996.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/level5/Solution2446.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/level5/Solution2523.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/level6/Solution10818.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/level6/Solution2562.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,13 +40,13 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$USER_HOME$/projects/boj-algorithm-solutions" />
   </component>
-  <component name="RunManager" selected="Application.Solution10871">
-    <configuration name="Solution10871" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="level3.Solution10871" />
+  <component name="RunManager" selected="Application.Solution2562">
+    <configuration name="Solution10818" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="level6.Solution10818" />
       <module name="boj-algorithm-solution" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="level3.*" />
+          <option name="PATTERN" value="level6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -57,12 +54,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution11021" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="level3.Solution11021" />
+    <configuration name="Solution10996" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="level5.Solution10996" />
       <module name="boj-algorithm-solution" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="level3.*" />
+          <option name="PATTERN" value="level5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -70,12 +67,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution11022" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="level3.Solution11022" />
+    <configuration name="Solution2446" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="level5.Solution2446" />
       <module name="boj-algorithm-solution" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="level3.*" />
+          <option name="PATTERN" value="level5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -83,12 +80,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution2438" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="level3.Solution2438" />
+    <configuration name="Solution2523" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="level5.Solution2523" />
       <module name="boj-algorithm-solution" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="level3.*" />
+          <option name="PATTERN" value="level5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -96,12 +93,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution2439" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="level3.Solution2439" />
+    <configuration name="Solution2562" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="level6.Solution2562" />
       <module name="boj-algorithm-solution" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="level3.*" />
+          <option name="PATTERN" value="level6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,11 +108,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Solution10871" />
-        <item itemvalue="Application.Solution2439" />
-        <item itemvalue="Application.Solution2438" />
-        <item itemvalue="Application.Solution11022" />
-        <item itemvalue="Application.Solution11021" />
+        <item itemvalue="Application.Solution2562" />
+        <item itemvalue="Application.Solution10818" />
+        <item itemvalue="Application.Solution10996" />
+        <item itemvalue="Application.Solution2446" />
+        <item itemvalue="Application.Solution2523" />
       </list>
     </recent_temporary>
   </component>
@@ -137,18 +134,39 @@
       <option name="project" value="LOCAL" />
       <updated>1583829752694</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="boj-algorithm-solution level 3">
+      <created>1583845365633</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1583845365633</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="update README.md" />
-    <option name="LAST_COMMIT_MESSAGE" value="update README.md" />
+    <MESSAGE value="boj-algorithm-solution level 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="boj-algorithm-solution level 3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="489" y="127" key="CommitChangelistDialog2" timestamp="1583829752120">
+    <state x="489" y="127" key="CommitChangelistDialog2" timestamp="1583845365085">
       <screen x="63" y="0" width="1644" height="1067" />
     </state>
-    <state x="489" y="127" key="CommitChangelistDialog2/63.0.1644.1067@63.0.1644.1067" timestamp="1583829752120" />
+    <state x="489" y="127" key="CommitChangelistDialog2/63.0.1644.1067@63.0.1644.1067" timestamp="1583845365085" />
     <state x="665" y="289" key="FileChooserDialogImpl" timestamp="1583827745072">
       <screen x="63" y="0" width="1644" height="1067" />
     </state>
@@ -157,29 +175,29 @@
       <screen x="63" y="0" width="1644" height="1067" />
     </state>
     <state x="703" y="447" key="Github.CreateGistDialog/63.0.1644.1067@63.0.1644.1067" timestamp="1583827456164" />
-    <state width="1601" height="291" key="GridCell.Tab.0.bottom" timestamp="1583845241245">
+    <state width="1601" height="291" key="GridCell.Tab.0.bottom" timestamp="1584577654033">
       <screen x="63" y="0" width="1644" height="1067" />
     </state>
-    <state width="1601" height="291" key="GridCell.Tab.0.bottom/63.0.1644.1067@63.0.1644.1067" timestamp="1583845241245" />
-    <state width="1601" height="291" key="GridCell.Tab.0.center" timestamp="1583845241245">
+    <state width="1601" height="291" key="GridCell.Tab.0.bottom/63.0.1644.1067@63.0.1644.1067" timestamp="1584577654033" />
+    <state width="1601" height="291" key="GridCell.Tab.0.center" timestamp="1584577654033">
       <screen x="63" y="0" width="1644" height="1067" />
     </state>
-    <state width="1601" height="291" key="GridCell.Tab.0.center/63.0.1644.1067@63.0.1644.1067" timestamp="1583845241245" />
-    <state width="1601" height="291" key="GridCell.Tab.0.left" timestamp="1583845241245">
+    <state width="1601" height="291" key="GridCell.Tab.0.center/63.0.1644.1067@63.0.1644.1067" timestamp="1584577654033" />
+    <state width="1601" height="291" key="GridCell.Tab.0.left" timestamp="1584577654033">
       <screen x="63" y="0" width="1644" height="1067" />
     </state>
-    <state width="1601" height="291" key="GridCell.Tab.0.left/63.0.1644.1067@63.0.1644.1067" timestamp="1583845241245" />
-    <state width="1601" height="291" key="GridCell.Tab.0.right" timestamp="1583845241245">
+    <state width="1601" height="291" key="GridCell.Tab.0.left/63.0.1644.1067@63.0.1644.1067" timestamp="1584577654033" />
+    <state width="1601" height="291" key="GridCell.Tab.0.right" timestamp="1584577654033">
       <screen x="63" y="0" width="1644" height="1067" />
     </state>
-    <state width="1601" height="291" key="GridCell.Tab.0.right/63.0.1644.1067@63.0.1644.1067" timestamp="1583845241245" />
-    <state x="477" y="267" key="Vcs.Push.Dialog.v2" timestamp="1583829754191">
+    <state width="1601" height="291" key="GridCell.Tab.0.right/63.0.1644.1067@63.0.1644.1067" timestamp="1584577654033" />
+    <state x="477" y="267" key="Vcs.Push.Dialog.v2" timestamp="1583845368142">
       <screen x="63" y="0" width="1644" height="1067" />
     </state>
-    <state x="477" y="267" key="Vcs.Push.Dialog.v2/63.0.1644.1067@63.0.1644.1067" timestamp="1583829754191" />
-    <state x="577" y="358" key="com.intellij.ide.util.TipDialog" timestamp="1583830627974">
+    <state x="477" y="267" key="Vcs.Push.Dialog.v2/63.0.1644.1067@63.0.1644.1067" timestamp="1583845368142" />
+    <state x="577" y="358" key="com.intellij.ide.util.TipDialog" timestamp="1584576052397">
       <screen x="63" y="0" width="1644" height="1067" />
     </state>
-    <state x="577" y="358" key="com.intellij.ide.util.TipDialog/63.0.1644.1067@63.0.1644.1067" timestamp="1583830627974" />
+    <state x="577" y="358" key="com.intellij.ide.util.TipDialog/63.0.1644.1067@63.0.1644.1067" timestamp="1584576052397" />
   </component>
 </project>
